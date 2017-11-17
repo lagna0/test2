@@ -1,5 +1,7 @@
 test2
 
+hi
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lagna0/test2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
